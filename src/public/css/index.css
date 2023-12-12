@@ -7,6 +7,7 @@
 .contact-form__heading {
     margin-bottom: 40px;
     text-align: center;
+    color: #8b7869;
 }
 
 .form {
@@ -19,14 +20,14 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 15px;
+    color: #8b7969;
 }
 
 .form__label--required {
     margin-left: 5px;
     padding: 4px 6px;
     border-radius: 3px;
-    background: #fafafa;
-    color: #aaa;
+    color: #FF9494;
 }
 
 .form__error {
@@ -38,15 +39,20 @@
 .form__input--text input,
 .form__input--textarea textarea {
     padding: 10px;
-    width: 600px;
-    border: 1px solid #ddd;
+    width: 618.82px;
+    border: 1px solid #f4f4f4;
     border-radius: 3px;
-
     appearance: none;
+    background-color: #f4f4f4;
+    color: #beb1a6;
 }
 
 .form__input--text input {
-    height: 40px;
+    height: 38px;
+}
+
+.form__input--name{
+    width: 287.15px;
 }
 
 .form__input--textarea textarea {
@@ -58,12 +64,12 @@
 }
 
 .form__button-submit {
-    padding: 10px;
-    width: 30%;
-    height: 50px;
+    padding: 10px,40px,10px,40px;
+    width: 160px;
+    height: 46px;
     border: none;
     border-radius: 3px;
-    background: #000;
+    background: #82756A;
     color: #fff;
     cursor: pointer;
 }
