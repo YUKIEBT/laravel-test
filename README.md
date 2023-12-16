@@ -19,6 +19,9 @@ PHP 8.0
 Laravel 10.0
 MySQL 8.0
 
+<img width="385" alt="スクリーンショット 2023-12-16 171118" src="https://github.com/YUKIEBT/laravel-test/assets/144157485/18a592a5-2d76-4b34-bc4e-202b92f7d6b3">
+
+
 ##URL
 開発環境:http://localhost/
 phpMyAdmin: http://localhost:8080/
